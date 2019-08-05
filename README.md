@@ -13,6 +13,8 @@ Anytime you purchase anything the inventory will be updated in my database.
 
 * Once installed make sure to type npm i to install the dependancies from the package.json.
 
+* You will also need to use the sql file to download inventory mysql database to see the inventory update.
+
 * CD into the file and type, node cli.js.  Then it will display a list of my inventory and ask what you would like to buy.
   To selsct what you want scroll up and down and select item id that you would like.
 
